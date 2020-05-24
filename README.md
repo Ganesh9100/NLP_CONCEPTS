@@ -1,5 +1,9 @@
 # NLP_CONCEPTS
-# 1.word2vec
-# 2.Bag of words ( CountVectorizer)
-# 3.TF-IDF 
-# 4.Spam Classifier ( Project )
+# 1.Stopwords 
+# 2.Lemmatizer and PorterStemmer
+# 3.word2vec
+# 4.Bag of words ( CountVectorizer)
+# 5.TF-IDF 
+# The five steps of data processing is called Tokenization 
+After tokenization we can create our machine learning model
+# PROJECT ( SPAM CLASSIFIER )
